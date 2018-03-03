@@ -62,7 +62,7 @@ homebrew_installed_packages:
   - offlineimap
   - oniguruma
   - openssl
-  - p11-klit
+  - p11-kit
   - parallel
   - pcre
   - pinentry
