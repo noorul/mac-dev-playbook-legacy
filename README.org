@@ -1,0 +1,14 @@
+* Mac Development Ansible Playbook
+
+#+begin_src sh
+sudo easy_install pip
+sudo pip install ansible
+#+end_src
+
+#+begin_src sh
+ansible-galaxy install -r requirements.yml
+#+end_src
+
+#+begin_src sh
+ansible-playbook -i inventory main.yml
+#+end_src
