@@ -103,6 +103,7 @@ homebrew_taps:
 
 homebrew_cask_apps:
   - java8
+  - dropbox
 
 dockitems_to_remove:
   - Launchpad
