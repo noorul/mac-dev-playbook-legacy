@@ -85,7 +85,7 @@ homebrew_installed_packages:
   - sqlite
   - swig
   - texinfo
-  - the_silver_searher
+  - the_silver_searcher
   - unixodbc
   - w3m
   - webp
