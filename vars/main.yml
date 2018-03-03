@@ -67,7 +67,7 @@ homebrew_installed_packages:
   - pcre
   - pinentry
   - pkg-config
-  - plantuml
+#  - plantuml
   - postgresql
   - protobuf
   - python2
