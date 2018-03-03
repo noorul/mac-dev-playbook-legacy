@@ -24,6 +24,7 @@ homebrew_installed_packages:
   - ghostscript
   - git
   - gmp
+  - gnupg
   - gnutls
   - graphviz
   - htop
