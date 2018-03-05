@@ -54,6 +54,7 @@ homebrew_installed_packages:
   - libyaml
   - little-cms2
   - markdown
+  - mosh
   - mpfr
   - mysql
   - namazu
