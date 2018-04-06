@@ -85,6 +85,7 @@ homebrew_installed_packages:
   - sbt
   - scala
   - scalariform
+  - shellcheck
   - sqlite
   - swig
   - texinfo
