@@ -109,6 +109,7 @@ homebrew_cask_apps:
   - dropbox
   - slack
   - vlc
+  - gimp
 
 dockitems_to_remove:
   - Launchpad
