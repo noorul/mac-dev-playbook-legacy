@@ -9,11 +9,13 @@ homebrew_installed_packages:
   - boost
   - boost-python
   - cask
+  - ccm
   - cloc
   - coreutils
   - dockutil
   - dos2unix
   - dovecot
+  - elasticsearch
   - emacs-mac
   - erlang
   - fontconfig
