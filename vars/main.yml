@@ -35,6 +35,7 @@ homebrew_installed_packages:
   - ispell
   - jpeg
   - jq
+  - kafka
   - keychain
   - kubernetes-cli
   - ledger
