@@ -32,6 +32,7 @@ homebrew_installed_packages:
   - htop
   - htop-osx
   - icu4c
+  - imagemagick
   - ispell
   - jpeg
   - jq
