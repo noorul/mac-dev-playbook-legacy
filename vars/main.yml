@@ -135,6 +135,10 @@ dockitems_to_remove:
   - Pages
   - Numbers
   - Keynote
+  - Music
+  - Podcasts
+  - TV
+  - Skype for Business
 
 
 dockitems_to_persist:
