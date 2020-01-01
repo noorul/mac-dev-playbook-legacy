@@ -104,8 +104,7 @@ homebrew_installed_packages:
 
 homebrew_taps:
   - homebrew/core
-  - caskroom/cask
-  - caskroom/versions
+  - homebrew/cask
   - railwaycat/emacsmacport
 
 homebrew_cask_apps:
