@@ -77,7 +77,6 @@ homebrew_installed_packages:
   - plantuml
   - postgresql
   - protobuf
-  - python2
   - python3
   - rabbitmq
   - rbenv
