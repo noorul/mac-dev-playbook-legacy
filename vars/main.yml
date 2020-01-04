@@ -105,9 +105,10 @@ homebrew_taps:
   - homebrew/core
   - homebrew/cask
   - railwaycat/emacsmacport
+  - AdoptOpenJDK/openjdk
 
 homebrew_cask_apps:
-  - java8
+  - adoptopenjdk8
   - dropbox
   - slack
   - vlc
