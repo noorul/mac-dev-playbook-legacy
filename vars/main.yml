@@ -57,6 +57,7 @@ homebrew_installed_packages:
   - libusb
   - libyaml
   - little-cms2
+  - maven
   - mosh
   - mpfr
   - multimarkdown
