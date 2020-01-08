@@ -94,6 +94,7 @@ homebrew_installed_packages:
   - swig
   - texinfo
   - the_silver_searcher
+  - tree
   - unixodbc
   - w3m
   - webp
