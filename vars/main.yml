@@ -110,6 +110,7 @@ homebrew_taps:
   - AdoptOpenJDK/openjdk
 
 homebrew_cask_apps:
+  - iterm2
   - adoptopenjdk8
   - dropbox
   - slack
