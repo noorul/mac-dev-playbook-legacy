@@ -111,6 +111,7 @@ homebrew_taps:
 
 homebrew_cask_apps:
   - iterm2
+  - google-chrome
   - adoptopenjdk8
   - dropbox
   - slack
