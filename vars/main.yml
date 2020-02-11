@@ -28,6 +28,7 @@ homebrew_installed_packages:
   - gmp
   - gnupg
   - gnutls
+  - golang
   - graphviz
   - htop
   - htop-osx
