@@ -123,6 +123,7 @@ homebrew_cask_apps:
   - vagrant
   - zoomus
   - zoomus-outlook-plugin
+  - adobe-acrobat-reader
 
 dockitems_to_remove:
   - Launchpad
