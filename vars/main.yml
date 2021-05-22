@@ -61,7 +61,6 @@ homebrew_installed_packages:
   - mpfr
   - multimarkdown
   - mysql
-  - namazu
   - nettle
   - nginx
   - node
